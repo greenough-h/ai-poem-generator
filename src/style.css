@@ -2,6 +2,7 @@ body {
   background-color: bisque;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
+
 .container {
   margin: 100px auto;
   max-width: 600px;
@@ -31,9 +32,11 @@ form,
   padding: 10px;
   border-radius: 20px;
 }
+
 .poem-topic:focus-visible {
   outline-color: rgb(255, 181, 112);
 }
+
 .submit-button {
   margin-left: 10px;
   width: 75px;
